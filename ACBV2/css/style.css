@@ -1,0 +1,134 @@
+body{
+    font-family: "lato", sans-serif;
+    
+    background: #ff6500;
+}
+.divider{
+    
+    width: 100px;
+    height: 2px;
+    background: white;
+    margin: 80px auto;
+}
+.heading{
+    text-align: center;
+    margin-bottom: 60px;
+    margin-top: 10px;
+}
+h2{
+    font-weight: bold;
+    color: #fff;
+}
+
+h1{
+    font-weight: bold !important;
+    color: #fff;
+}
+
+#contact-form{
+    font-size: 20px;
+    background: #fff;
+    padding: 40px;
+    border-radius: 10px;
+}
+.blue{
+    color:  #ff6500;
+}
+.form-control{
+    height: 50px;
+    font-size: 18px;
+}
+.comments{
+    font-style: italic;
+    font-size: 18px;
+    color: #d82cde;
+    height: 25px;
+}
+#contact-form input[type=submit]{
+    margin: 40px auto 0px;
+    display: block;
+}
+.button1{
+    border: 1px solid #ddd;
+    background: #ff6500;
+    color: #fff;
+    width: 100%;
+    font-weight: bold;
+    padding: 18px;
+    border-radius: 5px;
+    transition: all 0.3s ease-in 0s;
+}
+.button1:hover{
+    background: whitesmoke;
+    border-color: #ff6500;
+    color: #ff6500;
+}
+.thank-you{
+    text-align: center;
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 22px;
+    color: green;
+}
+
+.nav-link .active, .nav-link:hover{
+    background-color: white;
+    color: #ff6500 !important;
+  }
+  ul li{
+    color: white;
+  }
+
+  #navbarText ul li a{
+
+    color: white;
+    margin-left: 30px;
+}
+
+#navbar {
+    position: fixed;
+    width: 100%;
+    z-index: 1000; /* Make sure the navbar is on top of other elements */
+}
+
+footer {
+    
+  
+    position:unset;
+    background-color: #333;
+    color: white;
+    
+    text-align: left;
+}
+#message{
+    height: 130px;
+}
+
+label{
+    margin-top: 18px;
+}
+
+#inforequis
+{
+    margin-top: 18px;
+}
+
+.dropdown-menu{
+    background-color:rgba(255, 255, 255, 0.69) !important;
+    width: 240px;
+    
+  }
+  
+  .dropdown-menu li a
+  {
+    color: #ff6500 !important;
+    
+  }
+  
+  .dropdown-menu li a .active, .dropdown-menu li a:hover
+  {
+    background-color:#ff6500;
+    color: #fff !important;
+    width: 180px;
+    
+  }

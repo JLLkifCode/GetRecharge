@@ -1,0 +1,172 @@
+#navbarText ul li a{
+
+    color: white;
+    margin-left: 30px;
+}
+
+.nav-link{
+  
+  color: white !important;
+  margin-left: 30px;
+}
+
+.divider {
+    width: 100px;
+    height: 2px;
+    background-color: #ff6500;
+    margin: 0 auto 20px;}
+
+    .dividerWhite {
+        width: 100px;
+        height: 2px;
+        background-color: white;
+        margin: 0 auto 20px;}
+
+    #art1 {
+    background: url(images/24-7-2.png) no-repeat;
+    width: 270px;
+    margin-left: 10%;
+    height: 270px;
+    background-size: 250px;
+    background-position: right;
+    background-color: gainsboro;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding-right: 20px;
+    background-color: lightgray;
+    transition: background-color 0.3s;}
+
+    #art2 {
+        background: url(images/securite-activee-2.png) no-repeat;
+        width: 270px;
+        margin-left: 10%;
+        height: 270px;
+        background-size: 250px;
+        background-position: right;
+        background-color: gainsboro;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        padding-right: 20px;
+        background-color: lightgray;
+        transition: background-color 0.3s;}
+ 
+    #art3 {
+        background: url(images/la-flexibilite-3.png) no-repeat;
+        width: 270px;
+        margin-left: 10%;
+        height: 270px;
+        background-size: 250px;
+        background-position: right;
+        background-color: gainsboro;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        padding-right: 20px;
+        background-color: lightgray;
+        transition: background-color 0.3s;}
+        
+    #art4 {
+        background: url(images/service-clients-2.png) no-repeat;
+        width: 270px;
+        margin-left: 10%;
+        height: 270px;
+        background-size: 250px;
+        background-position: right;
+        background-color: gainsboro;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        padding-right: 20px;
+        background-color: lightgray;
+        transition: background-color 0.3s;}
+
+    .Overlay {
+        background-repeat: no-repeat;
+        background: rgba(255, 255, 255, 0.69);
+        height: 100%;
+        width: 150px;
+        padding: 20px;
+        border-radius: 10px 0 0 10px;
+        text-align: justify;
+        box-sizing: border-box;}
+
+    .heading h2{
+        text-align: center;
+        color: #ff6500;
+    }
+    .carousel-image {
+        max-height: 500px;
+        width: auto;
+        object-fit: contain;
+      }
+#recommendations{
+    background-color: #ff6500;
+}
+
+  
+  .carousel-indicators button {
+    background-color: white !important;
+  }
+  
+  #art1 .Overlay{
+    background-repeat: no-repeat;
+    background: rgba(255, 255, 255, 0.69);
+    height: 100%;
+    width: 160px;
+    padding: 20px;
+    border-radius: 10px 0 0 10px;
+    text-align: justify;
+    box-sizing: border-box;}
+
+  .nav-link .active, .nav-link:hover{
+    background-color: white;
+    color: #ff6500 !important;
+    
+    
+  }
+  ul li{
+    color: white;
+  }
+  
+  footer {
+    
+  
+    position:unset;
+    background-color: #333;
+    color: white;
+    
+    text-align: left;
+}
+  
+body{
+  font-family: "lato", sans-serif;}
+
+  #navbar h1{
+   
+    color: #fff;
+}
+.dropdown-menu{
+  background-color:rgba(255, 255, 255, 0.69) !important;
+  width: 240px;
+  
+}
+
+.dropdown-menu li a
+{
+  color: #ff6500 !important;
+  
+}
+
+.dropdown-menu li a .active, .dropdown-menu li a:hover
+{
+  background-color:#ff6500;
+  color: #fff !important;
+  width: 180px;
+  
+}
+
+#divid :first-child{
+color: #333;
+text-align: center;
+text-justify:auto;
+text-shadow: 2px 2px #fff;
+
+}
